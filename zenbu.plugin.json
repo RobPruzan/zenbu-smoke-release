@@ -1,0 +1,10 @@
+{
+  "name": "app",
+  "uiEntrypoint": "src/renderer",
+  "services": [
+    "src/main/services/*.ts"
+  ],
+  "schema": "./src/main/schema.ts",
+  "migrations": "./db",
+  "events": "./src/main/events.ts"
+}

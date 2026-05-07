@@ -1,0 +1,18 @@
+{
+  "id": "61570a5d-c46d-4c92-bd88-666cf2b26916",
+  "prevId": "00000000-0000-0000-0000-000000000000",
+  "fields": {
+    "count": {
+      "kind": "data",
+      "hasDefault": true,
+      "typeHash": "8388a0b5afc11559",
+      "default": 0
+    },
+    "ticks": {
+      "kind": "data",
+      "hasDefault": true,
+      "typeHash": "452ba973c4c9e318",
+      "default": []
+    }
+  }
+}
